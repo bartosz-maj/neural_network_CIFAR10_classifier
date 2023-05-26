@@ -1,1 +1,1 @@
-# neural_network_CIFAR10_classifier
+Implementation of a CIFAR-10 classifier in Pytorch.
